@@ -1,4 +1,0 @@
-Flask
-paho-mqtt
-influxdb-client
-telegraf
